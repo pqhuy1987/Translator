@@ -397,7 +397,7 @@
 				GCC_PREFIX_HEADER = "FGTranslatorDemo/FGTranslatorDemo-Prefix.pch";
 				INFOPLIST_FILE = "FGTranslatorDemo/FGTranslatorDemo-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.digital.london.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.hp16c.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -414,7 +414,7 @@
 				GCC_PREFIX_HEADER = "FGTranslatorDemo/FGTranslatorDemo-Prefix.pch";
 				INFOPLIST_FILE = "FGTranslatorDemo/FGTranslatorDemo-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.digital.london.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.hp16c.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
